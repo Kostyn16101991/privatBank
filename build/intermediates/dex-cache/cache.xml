@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/gson-2.7_8326501fb156c26f6aa3bc36cd471110d70fb933.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ed615fcb60f29ba9bbadf580891d63e4e1d398fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_41bb6ee2de850901a8cd64e6fcd36a2193d6c667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.6.0_0e486f0509a42c5bcc1ea6dfde7c186852f3a62f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_2e174c5691009e3ddc159f1118094ed8601ff0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_8512a3f77c30eae2d9b9bf127294b8c2ad9d39f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/okio-1.13.0_5e1c9aa1db29789e14b3c007f160a1478365e8f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bf52d82d3a1139e66c0373622c1621cbe73c182">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fb800d91d9481e15eaef2084466469a72b6351d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_669e41cfd633a665efe812040d88d727247ce1f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/konstantin/.android/build-cache/0e2db9be1594a95ae12e4951f978e2701c01d048/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/konstantin/Desktop/Step Progects/ANDROID/RetrofitFich/app/build/intermediates/pre-dexed/debug/classes_5b2e6ff2250de962bac5cf41903e5c228f473a14.jar" />
+    </item>
+
+</items>

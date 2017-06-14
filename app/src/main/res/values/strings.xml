@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitFich</string>
+    <string name="sum">sum</string>
+    <string name="reslt">result</string>
+    <string name="address">Search address</string>
+</resources>
